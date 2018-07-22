@@ -14,8 +14,8 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
 @Configuration
 public class InitBot {
 
-    private static String PROXY_HOST = "153.149.168.40" /* proxy host */;
-    private static Integer PROXY_PORT = 3128 /* proxy port */;
+    private static String PROXY_HOST = "" /* proxy host */;
+    private static Integer PROXY_PORT =  /* proxy port */;
     private  static String TOKEN="643454101:AAGai-egLH_u5PymisK5lLB8b5dos25ruOw";
     private static  String BOT_USERNAME="apistoreBot";
 
